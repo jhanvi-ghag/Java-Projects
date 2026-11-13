@@ -1,0 +1,9 @@
+
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Welcome to My Java Project!");
+        System.out.println("Name: Jhanvi Ghag");
+        System.out.println("Course: TY B.Sc. IT");
+        System.out.println("Interest: Cyber Security");
+    }
+}
